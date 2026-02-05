@@ -88,10 +88,3 @@ The champion model (Logistic Regression with NLTK) was stress-tested against cus
 3.  **Avoid Boosting for Sparse Data:** Gradient boosting models like LightGBM often struggle with the high-dimensionality and sparsity of TF-IDF matrices compared to linear models.
 
 ---
-
-## 🧬 Tools & Technologies
-
-* **Language:** Python 3.12
-* **NLP:** NLTK, spaCy, TF-IDF
-* **Modeling:** Scikit-Learn (Logistic Regression), LightGBM
-* **Viz:** Matplotlib, Seaborn
